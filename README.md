@@ -16,7 +16,7 @@ And its math of rule is expressed inline image
 
 ## 2 Tips for cross-selling opportunities analysis in large retailers
 
-Market Basket Analysis often be used for analyzing cross-selling opportunity in business, and there are many online resources to get codes. However, you might get nothing from your analysis if you directly run the code you copy and paste, especially for the large retails data set. So, I want to share my tips for this kind of situation by using Python.     
+Market Basket Analysis often be used for analyzing cross-selling opportunity in business, and there are many online resources to get codes. However, you might get nothing from your analysis if you directly run the code you copy and paste, especially for the large retails data set. So, I want to share my tips for solving this kind of situation by using Python.     
 
 ## 3 Process
 
