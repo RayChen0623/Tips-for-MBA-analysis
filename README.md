@@ -15,7 +15,7 @@ And its math of rule is expressed inline image
   
 ## 2 Example 
 
-Market Basket Analysis often be used for analyzing cross-selling opportunity in business. This dashboard not only present high-level view performance on Amazon e-commerce platform, but also discovery the the cross-selling opportunity between products.  
+Market Basket Analysis often be used for analyzing cross-selling opportunity in business. This dashboard not only present high-level view performance on Amazon e-commerce platform, but also discover the the cross-selling opportunity between products.  
 
 Url: https://lnkd.in/gUz2v5t
 
