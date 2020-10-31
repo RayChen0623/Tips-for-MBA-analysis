@@ -2,9 +2,8 @@
 
 ## Table of Contents
 1. Introduction of Market Basket Analysis (MBA)
-2. Tips for cross-selling opportunities analysis in large retailers
-3. Process
-4. Tech Stack
+2. Example
+3. Tech Stack
 
 ## 1 Introduction of Market Basket Analysis (MBA) 
 
@@ -13,11 +12,20 @@ Market Basket Analysis is an important technique used by large retailers to disc
 And its math of rule is expressed inline image
 ![MBA_math](MBA_math.png)
 
+  
+## 2 Example 
 
-## 2 Tips for cross-selling opportunities analysis in large retailers
+Market Basket Analysis often be used for analyzing cross-selling opportunity in business. This dashboard not only present high-level view performance on Amazon e-commerce platform, but also discovery the the cross-selling opportunity between products.  
 
-Market Basket Analysis often be used for analyzing cross-selling opportunity in business, and there are many online resources to get codes. However, you might get nothing from your analysis if you directly run the code you copy and paste, especially for the large retails data set. So, I want to share my tips for solving this kind of situation by using Python.     
+Url: https://lnkd.in/gUz2v5t
 
-## 3 Process
+
+## 4 Tech Stack
+
+* Python
+* ETL
+* Data Visualization (Google Data Studio)
+* Apriori algorithm (Market Basket Analysis)
+
 
 
