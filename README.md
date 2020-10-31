@@ -20,7 +20,7 @@ Market Basket Analysis often be used for analyzing cross-selling opportunity in 
 Url: https://lnkd.in/gUz2v5t
 
 
-## 4 Tech Stack
+## 3 Tech Stack
 
 * Python
 * ETL
